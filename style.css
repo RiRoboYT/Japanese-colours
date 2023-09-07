@@ -1,0 +1,10 @@
+#red {color: red; font-weight: lighter;}
+#blue {color: rgb(22, 138, 209); font-weight: lighter;}
+#orange {color: rgb(247, 128, 0); font-weight: lighter;}
+#green {color: green; font-weight: lighter;}
+#yellow {color: yellow; font-weight: lighter;}
+img {
+    height: 200px;
+    width: 200px;
+  }
+  * {background-color: rgb(143, 225, 255);}
